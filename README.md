@@ -12,4 +12,4 @@ Este projeto foi desenvolvido para analisar os dados históricos do Ibovespa e a
 - Notebook do projeto, com apresentação do storytelling.
 - Bases utilizadas.
 - Apresentação do storytelling em PPT.
-- [Vídeo com visão gerencial](https://youtu.be/vouVz0IvNQo)
+- [Vídeo com visão gerencial](https://youtu.be/E29GXdCX7ZE)
