@@ -9,7 +9,7 @@ Este projeto foi desenvolvido para analisar os dados históricos do Ibovespa e a
 
 ## Conteúdo do GitHub
 
-- Notebook do projeto.
+- Notebook do projeto, com apresentação do storytelling.
 - Bases utilizadas.
 - Apresentação do storytelling em PPT.
 - [Vídeo com visão gerencial](https://youtu.be/vouVz0IvNQo)
